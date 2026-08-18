@@ -8,7 +8,7 @@ developer · tech enthusiast
 
 </td> </tr> </table>
 
-I'm studying Systems Analysis and Development, currently focused on back-end development and programming. I enjoy learning how things work, building projects from scratch, and experimenting with new technologies.
+I'm studying Systems Analysis and Development, currently focused on back-end development and programming.
 
 </td> <td valign="top">
   
