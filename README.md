@@ -22,6 +22,4 @@ I'm studying Systems Analysis and Development, currently focused on back-end dev
 
 <br>
 
-<sub>thanks for stopping by ♡</sub>
-
 </div>
